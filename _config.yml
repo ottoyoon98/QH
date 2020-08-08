@@ -1,9 +1,9 @@
 # Site
-name: 'Mundana'
+name: 'QueerHolic'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: ""
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -34,7 +34,21 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
- 
+      
+goods:
+    badge:
+      name:           뱃지
+      pic:            assets/images/badge.png
+      description:    귀엽고 다양한 플래그 뱃지
+    bulletin:
+      name:           회지
+      pic:            assets/images/bulletin.jpg
+      description:    퀴어홀릭 회원들이 제작한 회지
+    sticker:
+      name:           스티커
+      pic:            assets/images/sticker.jpeg
+      description:    퀴어홀릭의 귀여운 스티커
+
 # Defaults
 defaults:
 
