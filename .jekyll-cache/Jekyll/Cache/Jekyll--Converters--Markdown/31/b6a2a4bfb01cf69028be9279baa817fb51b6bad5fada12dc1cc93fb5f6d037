@@ -1,0 +1,107 @@
+I"v<div class="container">
+<h4 class="font-weight-bold spanborder"><span>Goods</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="뱃지" src="/assets/images/badge.png" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/goods-뱃지">
+            <h4 class="text-dark mb-0"> 뱃지 </h4>
+            <!-- <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small> -->
+            <div class="excerpt">귀엽고 다양한 플래그 뱃지</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            
+            <!--
+            <div>
+            <a target="_blank" href=""><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href=""><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            -->
+            
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="회지" src="/assets/images/bulletin.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/goods-회지">
+            <h4 class="text-dark mb-0"> 회지 </h4>
+            <!-- <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small> -->
+            <div class="excerpt">퀴어홀릭 회원들이 제작한 회지</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            
+            <!--
+            <div>
+            <a target="_blank" href=""><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href=""><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            -->
+            
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="스티커" src="/assets/images/sticker.jpeg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/goods-스티커">
+            <h4 class="text-dark mb-0"> 스티커 </h4>
+            <!-- <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small> -->
+            <div class="excerpt">퀴어홀릭의 귀여운 스티커</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            
+            <!--
+            <div>
+            <a target="_blank" href=""><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href=""><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            -->
+            
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="엽서" src="/assets/images/postcard.jpg" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <a href="/goods-엽서">
+            <h4 class="text-dark mb-0"> 엽서 </h4>
+            <!-- <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small> -->
+            <div class="excerpt">퀴어홀릭의 감성 충만한 엽서</div>
+            </a>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            
+            <!--
+            <div>
+            <a target="_blank" href=""><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            <a target="_blank" href=""><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            </div>
+            -->
+            
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    
+    </div>
+</div>
+:ET

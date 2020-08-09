@@ -1,6 +1,6 @@
 # Site
 name: 'QueerHolic'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'SKKU queer society'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
@@ -38,16 +38,20 @@ authors:
 goods:
     badge:
       name:           뱃지
-      pic:            assets/images/badge.png
+      pic:            /assets/images/badge.png
       description:    귀엽고 다양한 플래그 뱃지
     bulletin:
       name:           회지
-      pic:            assets/images/bulletin.jpg
+      pic:            /assets/images/bulletin.jpg
       description:    퀴어홀릭 회원들이 제작한 회지
     sticker:
       name:           스티커
-      pic:            assets/images/sticker.jpeg
+      pic:            /assets/images/sticker.jpeg
       description:    퀴어홀릭의 귀여운 스티커
+    postcard:
+      name:           엽서
+      pic:            /assets/images/postcard.jpg
+      description:    퀴어홀릭의 감성 충만한 엽서
 
 # Defaults
 defaults:
