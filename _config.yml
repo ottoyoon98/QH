@@ -39,18 +39,22 @@ authors:
 goods:
     badge:
       name:           뱃지
+      kind:           badge
       pic:            /assets/images/badge.png
       description:    귀엽고 다양한 플래그 뱃지
     bulletin:
       name:           회지
+      kind:           bulletin
       pic:            /assets/images/bulletin.jpg
       description:    퀴어홀릭 회원들이 제작한 회지
     sticker:
       name:           스티커
+      kind:           sticker
       pic:            /assets/images/sticker.jpeg
       description:    퀴어홀릭의 귀여운 스티커
     postcard:
       name:           엽서
+      kind:           postcard
       pic:            /assets/images/postcard.jpg
       description:    퀴어홀릭의 감성 충만한 엽서
 

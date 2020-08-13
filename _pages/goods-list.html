@@ -13,10 +13,10 @@ permalink: "/goods-list.html"
             <div class="row">
             <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ goods[1].name }}" src="{{site.baseurl}}{{ goods[1].pic }}" class="rounded-circle" height="80" width="80"></div>
             <div class="col-md-9">
-            <a href="{{site.baseurl}}/goods-{{ goods[1].name | slugify }}">
-            <h4 class="text-dark mb-0"> {{ goods[1].name }} </h4>
-            <!-- <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small> -->
-            <div class="excerpt">{{ goods[1].description }}</div>
+            <a href="{{site.baseurl}}/goods-{{ goods[1].kind | slugify }}">
+                <h4 class="text-dark mb-0" style="display:inline"> {{ goods[1].name }} </h4> <h6 style="display:inline"> {{goods[1].kind}} </h6>
+                <!-- <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small> -->
+                <div class="excerpt">{{ goods[1].description }}</div>
             </a>
             <div class="icon-block mt-3 d-flex justify-content-between">  
             
