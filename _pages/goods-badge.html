@@ -5,23 +5,23 @@ permalink: "/goods-badge.html"
 ---
 <div class="container">
 <div class="row justify-content-center">
-    <div class="col-md-8">        
-        <div class="row align-items-center mb-5">
-            <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.sal.twitter }}">Follow</a></span></h2>
-                <!--
-                <p><a href="{{ site.authors.sal.site }}">{{ site.authors.sal.site }}</a></p>-->
-                <p class="excerpt">{{ site.goods.badge.description }}</p>
-            </div>
-            <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.sal.name }}" src="{{site.baseurl}}/{{ site.authors.sal.avatar }}" class="rounded-circle" height="100" width="100">
-            </div>
-        </div>
+    <div class="col-md-8">
+        <div > <br><br></div> 
         <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","sal" %}
-            {% for post in posts %}
-            {% include main-loop-card.html %}
-            {% endfor %}
+            <!--
+                {% assign posts = site.posts | where:"goods","badge" %}
+                {% for post in posts %}
+                {% include main-loop-card.html %}
+                {% endfor %}
+            -->
+            <span style="font:Gulim">
+                <h5>무지개 고양이 핀버튼</h5>
+                <img src="assets/images/badge-2.jpg" width="400">
+                <br> <br> <br> <br> <br> <br> <br>
+                <h5>고양이 케이크 뱃지</h5>
+                <img src="assets/images/badge-1.jpg" width="400">
+                <br><br>
+            </span>
     </div>
 </div>
 </div>
