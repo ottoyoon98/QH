@@ -2,7 +2,7 @@
 layout: post
 title:  "Queer Holic"
 author: queerholic
-categories: [ Jekyll, tutorial ]
+categories: [  queer, SKKU  ]
 image: assets/images/무지개토고양이.jpeg
 tags: [sticky]
 ---

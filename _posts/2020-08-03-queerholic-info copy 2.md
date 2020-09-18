@@ -2,7 +2,7 @@
 layout: post
 title:  "Queer Holic"
 author: queerholic
-categories: [ Jekyll, tutorial ]
+categories: [ queer, queerholic  ]
 image: assets/images/rainbow.jpg
 ---
 

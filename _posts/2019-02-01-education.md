@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ Badge, tutorial ]
+categories: [ badge, goodss ]
 image: assets/images/3.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor

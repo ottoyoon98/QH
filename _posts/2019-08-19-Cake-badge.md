@@ -2,7 +2,7 @@
 layout: post
 title:  "Cake badge"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ badge, goods ]
 image: assets/images/13.jpg
 ---
 
